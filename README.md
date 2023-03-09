@@ -1,5 +1,5 @@
 # Jefa Ilham Prayoga! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
+![](https://visitor-badge.glitch.me/badge?page_id=jefailhamprayoga13)
 ## Activity
 Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) 
 <br/>
