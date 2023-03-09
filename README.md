@@ -5,8 +5,13 @@
     <img src="https://img.shields.io/github/followers/jefailhamprayoga13?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
 ## Activity
+<br>
 Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) 
 <br/>
+<p align="center">
+<a href="https://twitter.com/JefaIlham" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="jefailham" height="30" width="40" /></a>
+<a href="https://instagram.com/jefa.ilham" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jefailham" height="30" width="40" /></a>
+</p>
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
