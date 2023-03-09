@@ -1,4 +1,7 @@
 # Jefa Ilham Prayoga! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+- Contributing on: <a href="https://github.com/jefailhamprayoga13?tab=followers">
+    <img src="https://img.shields.io/github/followers/jefailhamprayoga13?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=jefailhamprayoga13)
 ## Activity
 Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) 
