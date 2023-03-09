@@ -1,17 +1,8 @@
 # Jefa Ilham Prayoga! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🧑‍💻 Tech I work on :
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55"             height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="45" height="55"/>
-      
-</p>
+## Activity
+Currently learning : <br/> ![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
+<br/>
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
@@ -23,7 +14,6 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.37 % as on ⏰ 8-Mar-2023
 
 ---
 
