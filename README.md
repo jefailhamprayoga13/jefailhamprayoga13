@@ -7,7 +7,7 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="45" height="55"/>
       
