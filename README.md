@@ -7,10 +7,7 @@
 ## Activity
 Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) 
 <br/>
-&nbsp;**Connect with me**
-<p align="center">
-<a href="https://twitter.com/JefaIlham" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="jefailham" height="30" width="40" /></a>
-<a href="https://instagram.com/jefa.ilham" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jefailham" height="30" width="40" /></a>
+
 
 
 ---
@@ -19,11 +16,12 @@ Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vue
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefailhamprayoga13&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/jefailhamprayoga13/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jefailhamprayoga13&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
 
 
 ---
 
-
+&nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/JefaIlham" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="jefailham" height="30" width="40" /></a>
+<a href="https://instagram.com/jefa.ilham" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jefailham" height="30" width="40" /></a>
