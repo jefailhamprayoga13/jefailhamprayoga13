@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/github/followers/jefailhamprayoga13?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
 ## Activity
-<br>
 Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) 
 <br/>
 <p align="center">
