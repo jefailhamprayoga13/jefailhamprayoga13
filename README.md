@@ -7,7 +7,7 @@
   </a>
   
 ## Activity
-Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) 
+Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 <br/>
 
 
