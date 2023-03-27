@@ -25,5 +25,5 @@ Currently learning : <br/> ![VUE Js](https://www.vectorlogo.zone/logos/vuejs/vue
 
 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/JefaIlhamP" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="jefailham" height="30" width="40" /></a>
+
 <a href="https://instagram.com/jefa.ilham" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jefailham" height="30" width="40" /></a>
